@@ -1,0 +1,70 @@
+ body {
+   background-color: white;
+   text-align: center;
+ }
+
+ .center {
+   margin-left: auto;
+   margin-right: auto;
+ }
+
+
+ table,
+ tr,
+ td,
+ th {
+   border: 1px solid aquamarine;
+   border-collapse: collapse;
+ }
+
+
+ #product {
+   font-family: Arial, Helvetica, sans-serif;
+
+   width: 50%;
+
+   border: 1px solid aquamarine;
+   text-align: center;
+
+
+ }
+
+
+
+
+
+ #B1 {
+   background-color: red;
+   border: red;
+   width: 20%;
+   color: white;
+ }
+
+ #add {
+   background-color: white;
+   color: black;
+   border: 1px solid black;
+   padding: 10px 40px;
+   margin: 0px 550px 0px 0px;
+
+ }
+
+
+
+ select {
+   width: 50%;
+ }
+
+
+
+ #product th {
+   background-color: aquamarine;
+   text-align: center;
+   height: 1cm;
+
+ }
+
+ #product td {
+   text-align: center;
+   height: 1cm;
+ }
